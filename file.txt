@@ -1,0 +1,12 @@
+This will be input into the file
+
+
+
+asdfasdf
+as
+df
+asd
+fa
+sdf
+This will be printed on the screen
+
