@@ -1,0 +1,32 @@
+check available shels into linux distro
+nano /etc/shells/
+
+grep user default shell
+
+grep miroislav /etc/passwd
+
+
+add to the shell script path
+
+export PATH=$PATH:/home/miroslav
+
+
++++++++++++++++++++++++++++++
+check emacs or vi mode are available on machine
+
+set vi mode
+
+# set -o vi 
+
+set emacs mode
+
+# set -o emacs
+
+change default mode anytime you login 
+
+# vu ~/.inputrc 
+# set editing mode vi
+
+
++++++++++++++++++++++++++++++++++++
+search history user ctrl + R in terminal
