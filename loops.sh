@@ -15,3 +15,18 @@ do
     echo $num
     num=$(( num+1 ))
 done
+
+
+#for loop
+for (( i=1; i <=10; i++ ))
+do
+    echo "For loop"
+    echo $i
+done
+
+
+#using 10 RANDOM numbers
+for (( i=1; i<=10; i++ ))
+do
+    echo "$i: " $RANDOM
+done
