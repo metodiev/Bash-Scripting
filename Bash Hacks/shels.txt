@@ -33,3 +33,9 @@ search history user ctrl + R in terminal
 
 Display Timestamp using HISTTIMEFORMAT
 export HISTTIMEFORMAT='%F %T '
+
+
+###############################
+hash command for quick executions
+
+hash
